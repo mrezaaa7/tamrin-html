@@ -1,0 +1,108 @@
+.col-1
+{
+    width: 25.5%;
+    margin: 1px;
+    border: 2px solid black;
+    height: 50 px;
+    float: right;
+    background-color:firebrick;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 50px;
+
+
+}
+
+
+.col-2
+{
+    width: 50%;
+    margin: 1px;
+    border: 2px solid black;
+    height: 50 px;
+    float: right;
+    background-color: dimgray;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 50px;
+
+
+}
+
+.col-3
+{
+    width: 21.7%;
+    margin: 1px;
+    border: 2px solid black;
+    height: 50 px;
+    float: right;
+    background-color:teal;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 50px;
+
+
+}
+
+
+.col-4
+{
+    width: 74%;
+    margin: 1px;
+    border: 2px solid black;
+    height: 50 px;
+    float: right;
+    background-color: royalblue;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 50px;
+
+
+}
+
+.col-5
+{
+    width: 23.6%;
+    margin: 1px;
+    border: 2px solid black;
+    height: 50 px;
+    float: right;
+    background-color:silver;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 50px;
+
+
+}
+
+.col-6
+{
+    width: 98%;
+    height: 250px;
+    padding-top: 125px;
+    margin: 1px;
+    border: 2px solid black;
+    float: right;
+    background-color:rebeccapurple;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 50px;
+
+
+}
+
+.col-7
+{
+    width: 16%;
+    height: 140px;
+    padding-top: 70px;
+    margin: 1px;
+    border: 2px solid black;
+    float: right;
+    background-color:seagreen;
+    border-radius: 50%;
+    text-align: center;
+    font-size: 50px;
+
+
+}
